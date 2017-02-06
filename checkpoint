@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/hadoop/tensorFlow_pro/word2devmodel-4514"
+all_model_checkpoint_paths: "/home/hadoop/tensorFlow_pro/word2devmodel-4514"
